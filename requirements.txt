@@ -1,0 +1,26 @@
+# LangChain
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+
+# Vector Store
+faiss-cpu
+
+# Document Loaders
+pypdf
+docx2txt
+beautifulsoup4
+lxml
+
+# Web Requests
+requests
+
+# YouTube
+youtube-transcript-api
+pytube
+
+# Frontend
+streamlit
+
+# Environment Variables
+python-dotenv
