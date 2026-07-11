@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-**Live Demo:** https://your-demo-url.streamlit.app
+**Live Demo:** https://knowledgeapp-ai-qdesbseoqi5mhb2srqgpva.streamlit.app/
 
 ---
 
